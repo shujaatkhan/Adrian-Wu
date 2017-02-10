@@ -1,0 +1,12 @@
+Figs-Orig-Parms-alldata.pdf
+Use Adrian and Wu parameters on data from 2003-2016
+
+Figs-Reest-Parms-alldata.pdf
+Estimate the parts on data from 2003-2016
+
+fixing_each_parmsind_to_old.pdf
+Fix each parms(i) to parms_orig(i) from Adrian and Wu
+
+fixing_each_parms_to_old.pdf
+Fix each parts to parms_orig from Adrian and Wu
+
