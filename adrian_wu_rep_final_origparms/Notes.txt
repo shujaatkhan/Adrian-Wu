@@ -1,0 +1,11 @@
+Data: 03-09
+Init parms: Adrian and Wu
+Re-estimated the baseline model on the original data, using Adrian and Wu parameters as the initial values.
+Output
+Figs-Orig-Reest-Parms.pdf
+
+
+Data: 03-09
+parms: Adrian and Wu
+Output
+Figs-Orig-Parms.pdf
